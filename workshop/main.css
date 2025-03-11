@@ -1,0 +1,39 @@
+#a {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+#b {
+    border: solid 2px red;
+    height: 100px;
+    width: 200px;
+    background-color: antiquewhite;
+    text-align: justify;
+    padding: 20px;
+}
+#c {
+    border: solid 2px rgb(64, 5, 69);
+    height: 100px;
+    width: 200px;
+    background-color: antiquewhite;
+    text-align: justify;
+    float: left;
+    margin-left:  auto;
+    margin-right:  auto;
+    padding: 20px;
+
+}
+#d {
+    border: solid 2px red;
+    height: 100px;
+    width: 200px;
+    background-color: antiquewhite;
+    text-align: justify;
+    margin-left: auto;
+    float: right;
+    padding: 20px;
+    margin-top: -160px;
+}
+body{
+    background-color: darkgrey;
+    font-weight: 600;
+}
